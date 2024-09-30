@@ -1,0 +1,7 @@
+name = "backend"
+compatibility_date = "2024-09-16"
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiOTU2NzlhMGItZTYzMy00Zjk0LTk5ZTEtNDc1MmQ4ZmZkMjU3IiwidGVuYW50X2lkIjoiODI2NGQ0YTU3MzdkZjVmOTExZmUxYTc0ZjU2YzYzNTE4YTQ5YTQzOTg0Yjc5MGE2MDA1ZTljYzIwN2I3ODVmYyIsImludGVybmFsX3NlY3JldCI6IjRjYThiMzM2LTFlOGEtNGI1MC1hYTdhLWFhMjgyZTg3MzYzOCJ9.NgrkV7fC55ewEnhU1BrVV196Fjg-0RotkSjwvkA0-bc"
+JWT_SECRET="LinkinPark"
